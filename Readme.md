@@ -61,8 +61,8 @@ Contributions are welcome! To contribute to the project, follow these steps:
 
 ## Deployment
 
-- The project is deployed on [GitHub Pages](https://github.com/AhmedFarag18/blooger).
-- Visit the live site: [Blooger Landing Page](https://ahmedfarag18.github.io/blooger/).
+- The project is deployed on [GitHub Pages](https://github.com/AhmedFarag18/Blooger).
+- Visit the live site: [Blooger Landing Page](https://ahmedfarag18.github.io/Blooger/).
 
 ## License
 
