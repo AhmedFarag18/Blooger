@@ -18,7 +18,7 @@ This repository is built using HTML, CSS, and JavaScript, with additional functi
 
 ## Screenshots
 
-![Design preview for the Blooger Landing Page](./screen/screen_page.png)
+![Design preview for the Blooger Landing Page](./screen/preview.png)
 
 ## Features
 
